@@ -2,4 +2,3 @@
 
 text = input()
 print(text.swapcase())
-print(text.upper())
