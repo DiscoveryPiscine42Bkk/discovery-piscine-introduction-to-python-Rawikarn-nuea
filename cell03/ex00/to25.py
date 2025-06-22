@@ -8,4 +8,4 @@ if user_input_num < 25 :
         print(f"Inside the loop, my variable is {count}")
         count += 1
 else :
-    print ("Error")
+    print ("Erro
