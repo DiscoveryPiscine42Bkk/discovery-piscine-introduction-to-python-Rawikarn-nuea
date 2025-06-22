@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-first_number = int(input("Give me the first number: "))
-second_number = int(input("Give me the second number: "))
 
-print("Thank you!")
+age_input = input("Please tell me you age: ")
+
+age = int(age_input)
+
+print(f"You are currently {age} years old.")
+print(f"In 10 years, you'll be {age + 10} years old.")
+print(f"In 20 years, you'll be {age + 20} years old.")
+print(f"In 30 years, you'll be {age + 30} years old.")
